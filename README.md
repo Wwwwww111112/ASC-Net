@@ -22,4 +22,12 @@ other python required packages
 ```
 pip install -r requirements.txt
 ```
-
+## __Run__
+train command
+```shell
+python train.py configs/ascnet/epoch-350_ascnet_224x224.py
+```
+test command
+```shell
+python test.py work_dirs/epoch-350_ascnet_224x2244/time_prefix/checkpoints/xxx.ckpt
+```
