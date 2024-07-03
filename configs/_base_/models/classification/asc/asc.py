@@ -1,4 +1,4 @@
 model = dict(
-    type='BMEC',
+    type='ASC',
     num_classes=2
 )
