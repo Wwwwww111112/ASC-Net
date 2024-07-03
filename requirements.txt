@@ -1,0 +1,11 @@
+matplotlib==3.7.1
+monai==1.1.0
+numpy==1.23.5
+pandas==2.0.0
+scikit_learn==1.2.2
+timm==0.6.13
+torch==2.0.0
+tqdm==4.65.0
+mrmr_selection==0.2.7
+SimpleITK==2.2.1
+pyradiomics==3.1.0
